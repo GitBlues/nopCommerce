@@ -1,0 +1,2 @@
+# nopCommerce
+nopcommerce是国外asp.net领域一个高质量的b2c开源项目，基于EntityFramework和MVC开发
